@@ -1,2 +1,0 @@
-# ninestores
-Nine Test App
